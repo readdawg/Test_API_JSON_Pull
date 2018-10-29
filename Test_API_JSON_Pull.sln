@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_API_JSON_Pull", "Test_API_JSON_Pull\Test_API_JSON_Pull.csproj", "{4F48BAFA-4537-4340-99C1-E6730698172F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F48BAFA-4537-4340-99C1-E6730698172F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F48BAFA-4537-4340-99C1-E6730698172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F48BAFA-4537-4340-99C1-E6730698172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F48BAFA-4537-4340-99C1-E6730698172F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDB4C813-8BFD-41DB-A63E-424D3A7C7DB2}
+	EndGlobalSection
+EndGlobal
